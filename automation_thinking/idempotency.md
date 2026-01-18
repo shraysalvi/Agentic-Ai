@@ -1,5 +1,5 @@
 LOVE where this is going.
-This question means you’re no longer *learning AI* — you’re learning **how systems survive in the real world** 🔥
+This means you’re no longer *learning AI* — you’re learning **how systems survive in the real world** 🔥
 
 > **Guardrails are not features.
 > Guardrails are constraints on damage.**
