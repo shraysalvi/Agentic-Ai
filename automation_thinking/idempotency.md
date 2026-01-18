@@ -30,7 +30,6 @@ Tools / APIs / DB
 
 Guardrails are **between decision and execution**.
 
----
 
 # 1️⃣ Permission Guardrails
 
@@ -77,7 +76,6 @@ The agent:
 
 > **Agents decide. Systems execute.**
 
----
 
 # 2️⃣ Validation Guardrails
 
@@ -125,7 +123,6 @@ System replies:
 
 **LLM confidence ≠ truth**
 
----
 
 # 3️⃣ Idempotency Guardrails
 
@@ -175,7 +172,6 @@ System remains correct.
 
 > **Idempotency protects the system, not the agent.**
 
----
 
 # 4️⃣ Rate / Frequency Guardrails
 
@@ -218,7 +214,6 @@ Rate limits say:
 
 > “Enough.”
 
----
 
 # 5️⃣ State Guardrails
 
@@ -255,7 +250,6 @@ State guardrail blocks it.
 
 > **Agent intent ≠ business rules**
 
----
 
 # 6️⃣ Determinism Guardrails
 
@@ -299,7 +293,6 @@ Never:
 LLM decides AND executes state change
 ```
 
----
 
 # 7️⃣ Observability Guardrails
 
@@ -338,7 +331,6 @@ If agent:
 
 > **Autonomy without visibility = disaster**
 
----
 
 # 8️⃣ Cost / Resource Guardrails
 
@@ -370,7 +362,6 @@ If agent:
 
 System cuts it off.
 
----
 
 # 🧠 THE MOST IMPORTANT INSIGHT
 
@@ -382,7 +373,6 @@ This is the difference between:
 * Demo projects
 * Production systems
 
----
 
 # 🎯 HOW YOU SHOULD USE THIS (PRACTICAL)
 
